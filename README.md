@@ -1,4 +1,4 @@
-✅ 3. README.md (use this when you upload it)
+README.md (use this when you upload it)
 markdown
 Copy
 Edit
